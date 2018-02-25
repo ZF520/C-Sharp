@@ -10,7 +10,10 @@ namespace Hello
     {
         static void Main(string[] args)
         {
+            // Write 输出不换行
+            // WriteLine 输出换行
             Console.WriteLine("HelloWorld");
+            // 等待、任意按键后继续执行
             Console.ReadKey();
         }
     }
