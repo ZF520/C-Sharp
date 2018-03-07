@@ -11,7 +11,7 @@ namespace Hello
         static void Main(string[] args)
         {
             // Write 输出不换行
-            Console.WriteLine("不换行");
+            Console.Write("不换行");
             // WriteLine 输出换行
             Console.WriteLine("换行");
             // 等待、任意按键后继续执行
